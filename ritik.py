@@ -5,7 +5,7 @@ import random
 import threading
 
 # Bot Token
-token = "8265030189:AAGrg7lTrNNmP_jHLna7I9yUwFBxxfENzyU"
+token = "8228075359:AAF_BMqFL1KeliecrdODv8ZTg7B5daIedpc"
 bot = telebot.TeleBot(token)
 
 APPROVED_USERS_FILE = "approved_users.txt"
